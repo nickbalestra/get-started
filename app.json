@@ -1,7 +1,7 @@
 {
   "name": "oc-registry",
   "description": "A barebone OpenComponents registry",
-  "repository": "https://github.com/opencomponents/starter-kit",
+  "repository": "https://github.com/nickbalestra/get-started",
   "logo": "https://avatars2.githubusercontent.com/u/28356951?v=4&s=200",
   "keywords": [
     "opencomponents",
