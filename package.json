@@ -9,7 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^4.0.0",
-    "oc": "^0.41.2",
+    "oc": "^0.41.4",
     "oc-template-react": "^0.2.1"
   }
 }
