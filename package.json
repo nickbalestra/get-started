@@ -7,6 +7,9 @@
     "email": "nick@balestra.ch"
   },
   "license": "MIT",
+  "engines": {
+    "node": "6.9.1",
+  },
   "dependencies": {
     "dotenv": "^4.0.0",
     "oc": "0.41.5",
